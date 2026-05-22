@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-05 01:01+0000\n"
-"PO-Revision-Date: 2026-05-05 01:03\n"
+"PO-Revision-Date: 2026-05-20 13:10\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -610,7 +610,7 @@ msgstr "Entrainer le classificateur"
 
 #: documents/models.py:684
 msgid "Sanity Check"
-msgstr ""
+msgstr "Vérification de cohérence"
 
 #: documents/models.py:685
 msgid "Index Optimize"
@@ -634,7 +634,7 @@ msgstr ""
 
 #: documents/models.py:690
 msgid "Bulk Update"
-msgstr ""
+msgstr "Mise à jour groupée"
 
 #: documents/models.py:691
 msgid "Reprocess Document"
@@ -662,11 +662,11 @@ msgstr ""
 
 #: documents/models.py:705
 msgid "Folder Consume"
-msgstr ""
+msgstr "Répertoire de consommation"
 
 #: documents/models.py:706
 msgid "Email Consume"
-msgstr ""
+msgstr "Courriel de consommation"
 
 #: documents/models.py:707
 msgid "System"
@@ -682,7 +682,7 @@ msgstr "ID de tâche"
 
 #: documents/models.py:715
 msgid "Celery task ID"
-msgstr ""
+msgstr "ID de la tâche Celery"
 
 #: documents/models.py:721
 msgid "Task Type"
@@ -702,31 +702,31 @@ msgstr ""
 
 #: documents/models.py:739
 msgid "Status"
-msgstr ""
+msgstr "État"
 
 #: documents/models.py:759
 msgid "Completed"
-msgstr ""
+msgstr "Terminé(s)"
 
 #: documents/models.py:767
 msgid "Duration (seconds)"
-msgstr ""
+msgstr "Durée (secondes)"
 
 #: documents/models.py:768
 msgid "Elapsed time from start to completion"
-msgstr ""
+msgstr "Durée d'exécution"
 
 #: documents/models.py:774
 msgid "Wait Time (seconds)"
-msgstr ""
+msgstr "Temps d'attente (secondes)"
 
 #: documents/models.py:775
 msgid "Time from task creation to worker pickup"
-msgstr ""
+msgstr "Temps de latence en file d'attente"
 
 #: documents/models.py:782
 msgid "Input Data"
-msgstr ""
+msgstr "Données d'entrée"
 
 #: documents/models.py:783
 msgid "Structured input parameters for the task"
@@ -1640,7 +1640,7 @@ msgstr ""
 
 #: documents/views.py:1491
 msgid "Invalid AI configuration."
-msgstr ""
+msgstr "Configuration IA invalide."
 
 #: documents/views.py:2266 documents/views.py:2582
 msgid "Specify only one of text, title_search, query, or more_like_id."
@@ -1745,7 +1745,7 @@ msgstr "CMJN"
 
 #: paperless/models.py:78 paperless/models.py:87
 msgid "OpenAI-compatible"
-msgstr ""
+msgstr "Compatible avec OpenAI"
 
 #: paperless/models.py:79
 msgid "Huggingface"

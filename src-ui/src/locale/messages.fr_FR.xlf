@@ -2476,7 +2476,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">74</context>
         </context-group>
-        <target state="needs-translation">Sanity Check</target>
+        <target state="translated">Vérification de cohérence</target>
       </trans-unit>
       <trans-unit id="7502272564743467653" datatype="html">
         <source>Mail Fetch</source>
@@ -2520,7 +2520,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">88</context>
         </context-group>
-        <target state="needs-translation">Bulk Update</target>
+        <target state="translated">Mise à jour groupée</target>
       </trans-unit>
       <trans-unit id="5062348912423871240" datatype="html">
         <source>Reprocess Document</source>
@@ -2544,7 +2544,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">100</context>
         </context-group>
-        <target state="needs-translation">Bulk Delete</target>
+        <target state="translated">Suppression groupée</target>
       </trans-unit>
       <trans-unit id="9172233176401579786" datatype="html">
         <source>Scheduled</source>
@@ -2588,7 +2588,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">119</context>
         </context-group>
-        <target state="needs-translation">Folder Consume</target>
+        <target state="translated">Répertoire de consommation</target>
       </trans-unit>
       <trans-unit id="1456901843819961615" datatype="html">
         <source>Email Consume</source>
@@ -2596,7 +2596,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">123</context>
         </context-group>
-        <target state="needs-translation">Email Consume</target>
+        <target state="translated">Courriel de consommation</target>
       </trans-unit>
       <trans-unit id="29832309535656200" datatype="html">
         <source>System</source>
@@ -2604,7 +2604,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">125</context>
         </context-group>
-        <target state="needs-translation">System</target>
+        <target state="translated">Système</target>
       </trans-unit>
       <trans-unit id="2233560223291461480" datatype="html">
         <source>Manual</source>
@@ -2612,7 +2612,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.ts</context>
           <context context-type="linenumber">126</context>
         </context-group>
-        <target state="needs-translation">Manual</target>
+        <target state="translated">Manuel</target>
       </trans-unit>
       <trans-unit id="5404910960991552159" datatype="html" approved="yes">
         <source>Dismiss selected</source>
@@ -7920,7 +7920,7 @@
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">167</context>
         </context-group>
-        <target state="needs-translation">No recent tasks</target>
+        <target state="translated">Aucune tâche récente</target>
       </trans-unit>
       <trans-unit id="2041675390931385838" datatype="html">
         <source>Health</source>
@@ -7984,7 +7984,7 @@
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">234</context>
         </context-group>
-        <target state="translated">Vérificateur de fonctionnement</target>
+        <target state="translated">Vérificateur de cohérence</target>
       </trans-unit>
       <trans-unit id="6578747070254776938" datatype="html">
         <source>Last Run</source>
@@ -8754,7 +8754,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">632</context>
         </context-group>
-        <target state="needs-translation">Document was updated</target>
+        <target state="translated">Document a été mis à jour</target>
       </trans-unit>
       <trans-unit id="5154064822428631306" datatype="html">
         <source>Document was updated at <x id="PH" equiv-text="formattedModified"/>.</source>
@@ -8762,7 +8762,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">633</context>
         </context-group>
-        <target state="needs-translation">Document was updated at <x id="PH" equiv-text="formattedModified"/>.</target>
+        <target state="translated">Document a été mis à jour à <x id="PH" equiv-text="formattedModified"/>.</target>
       </trans-unit>
       <trans-unit id="8462497568316256794" datatype="html">
         <source>Reload to discard your local unsaved edits and load the latest remote version.</source>
@@ -9126,7 +9126,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-version-dropdown/document-version-dropdown.component.html</context>
           <context context-type="linenumber">122</context>
         </context-group>
-        <target state="needs-translation">Delete this version?</target>
+        <target state="translated">Supprimer cette version ?</target>
       </trans-unit>
       <trans-unit id="894108684749537200" datatype="html">
         <source>Delete version</source>
@@ -9134,7 +9134,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-version-dropdown/document-version-dropdown.component.html</context>
           <context context-type="linenumber">127</context>
         </context-group>
-        <target state="needs-translation">Delete version</target>
+        <target state="translated">Supprimer la version</target>
       </trans-unit>
       <trans-unit id="9111284310237278846" datatype="html">
         <source>Error deleting version</source>
